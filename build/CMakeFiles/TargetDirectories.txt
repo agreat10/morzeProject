@@ -1,0 +1,3 @@
+G:/CPP/morzeProject/build/CMakeFiles/ArduinoUDPClient.dir
+G:/CPP/morzeProject/build/CMakeFiles/edit_cache.dir
+G:/CPP/morzeProject/build/CMakeFiles/rebuild_cache.dir
